@@ -1,0 +1,22 @@
+.App {
+  font-family: Work Sans, sans-serif;
+  text-align: center;
+}
+
+.news-feed {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.news-card {
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin: 15px;
+  width: 300px;
+}
+
+.news-card img {
+  width: 100%;
+  height: auto;
+}
